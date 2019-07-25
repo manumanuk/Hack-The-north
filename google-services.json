@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "38566568160",
+    "firebase_url": "https://hackthenorth2018-95953.firebaseio.com",
+    "project_id": "hackthenorth2018-95953",
+    "storage_bucket": "hackthenorth2018-95953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38566568160:android:510c53ac6f09b4a1",
+        "android_client_info": {
+          "package_name": "com.example.manpreet.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38566568160-k3kgal6t5eqjgui0ail02mpc5r48rcp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFQO4jwRR97Kv0MD7B40gJNqWcgXSA5O4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38566568160:android:a806387762327d53",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38566568160-k3kgal6t5eqjgui0ail02mpc5r48rcp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFQO4jwRR97Kv0MD7B40gJNqWcgXSA5O4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
